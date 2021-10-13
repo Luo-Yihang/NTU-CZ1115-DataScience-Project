@@ -1,6 +1,7 @@
 This is NTU CZ1115 Data Science Porjet which is on the Brazilian Olist E-commerce dataset on https://www.kaggle.com/olistbr/brazilian-ecommerce/home and https://www.kaggle.com/olistbr/marketing-funnel-olist.
 
 Contributors: 
+
 Wang Qianteng 
 
 Xue Yushan
