@@ -1,5 +1,11 @@
-FS6 Group 10
-*This zipped folder contains the notebooks and corresponding html files, please check the html files in which the interactive visuals can be shown normally.
+This is NTU CZ1115 Data Science Porjet which is on the Brazilian Olist E-commerce dataset on https://www.kaggle.com/olistbr/brazilian-ecommerce/home and https://www.kaggle.com/olistbr/marketing-funnel-olist.
+
+Contributors: 
+Wang Qianteng
+Xue Yushan
+Luo Yihang
+
+*This zipped folder contains the notebooks and corresponding html files, please check the html files in which the interactive visuals can be shown normally.*
 
 Files contained:
 1. data_preparation.ipynb: notebook which contains data preparation of data cleaning, merging and precessing steps
